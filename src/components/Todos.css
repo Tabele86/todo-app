@@ -1,0 +1,9 @@
+.collection-item :hover {
+	cursor: pointer;
+	color: white;
+	text-decoration: line-through;
+}
+
+body {
+	background-color: turquoise;
+}
